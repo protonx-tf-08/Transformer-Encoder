@@ -9,14 +9,13 @@ if __name__ == "__main__":
     # FIXME
     args = parser.parse_args()
 
-    # FIXME
     # Project Description
 
-    print('---------------------Welcome to ${name}-------------------')
-    print('Github: ${accout}')
-    print('Email: ${email}')
+    print('---------------------Welcome to ${Transformer-Encoder}-------------------')
+    print('Github: ${TranDucChinh}')
+    print('Email: ${chinhtran2004@gmail.com}')
     print('---------------------------------------------------------------------')
-    print('Training ${name} model with hyper-params:') # FIXME
+    print('Training ${Transformer Encoder} model with hyper-params:')
     print('===========================')
 
     # FIXME
