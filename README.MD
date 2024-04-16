@@ -7,7 +7,6 @@
 This is my code about Transformer Encoder base on paper [Attention Is All You Need](https://doi.org/10.48550/arXiv.1706.03762)
 
 Architecture Image ![alt text](model_architecture.png)
-kk
 
 Authors:
 - Github: TranDucChinh
